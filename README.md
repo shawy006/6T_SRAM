@@ -173,6 +173,8 @@ The **read operation** retrieves the data stored in the SRAM cell (either a `1` 
    - If the stored data is `1`, the **upper storage node** is high, and the **lower storage node** is low. As the **bit line** is connected to the high storage node, it will tend to pull the bit line high.
    - If the stored data is `0`, the **upper storage node** is low, and the **lower storage node** is high. The **bit line** is pulled low by the low voltage stored at the upper node.
 3. The voltage difference between the **bit line** and **bit line bar (BLB)**, created by the state of the cell, is small but enough to be sensed and amplified.
+
+   
    ![Screenshot (167)](https://github.com/user-attachments/assets/8543752b-250e-4004-8f92-601e6b1b04eb)
 ![Screenshot (168)](https://github.com/user-attachments/assets/e4532084-9cb8-46fa-93c4-df3563ac369f)
 
@@ -180,11 +182,15 @@ The **read operation** retrieves the data stored in the SRAM cell (either a `1` 
 
 ### **LTSpice Simulation and Results**
 
+
+
 ![Screenshot (171)](https://github.com/user-attachments/assets/5a4336b9-fa6e-473d-9300-e9437109bc6a)
 ![Screenshot (174)](https://github.com/user-attachments/assets/194444a4-aeb1-4735-ae9b-ff630f322277)
 
  
 ---
+
+
 
 ### **Key Considerations**
 
