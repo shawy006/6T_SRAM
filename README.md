@@ -186,7 +186,7 @@ In summary, the operation of the 6T SRAM cell involves careful management of the
 ### **Challenges and Considerations:**
 
 - **Static Power Consumption:** Even though SRAM is faster than DRAM, it can consume significant static power due to the cross-coupled inverters. This is an important factor in low-power designs.
-- **Scaling:** The TSMC 180nm process may not be optimal for extremely small SRAM cells, so there's a trade-off between speed, power, and area.
+- **Scaling:** The TSMC 180nm process may not be optimal for extremely small SRAM cells, so there's a trade-off between speed, power, and area. A 6T SRAM cell at 22nm or high tech. nodes requires attention to balancing stability, leakage control, and variability. Techniques like FinFETs, read/write assist circuits, and optimized transistor sizing are instrumental in managing these challenges at this advanced technology node.
 - **Sense Amplifier Timing:** The timing of the sense amplifier must be carefully optimized to balance speed and power efficiency.
 
 ### **Outcome:**
