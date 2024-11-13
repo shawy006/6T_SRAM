@@ -20,7 +20,7 @@ This project involves the design and simulation of a 6T (Six-Transistor) SRAM (S
    - A **sense amplifier** is used to detect small voltage differences on the bit line and amplify them, providing a clean logic level output (0 or 1).
 
 4. **Sense Amplifier:**
-   - The sense amplifier is critical for the read operation, especially when the bit line voltage difference is too small to be directly interpreted.
+   - The sense amplifier is critical for the read operation, especially when the bit line voltage is too small to be directly interpreted.
    - The **sense amplifier** detects the small difference between the bit line and its complement and amplifies the voltage difference to a full logic high or low level.
    - It typically consists of **cross-coupled inverters** or other high-gain circuits designed to pull the bit line to a defined state (either high or low).
    
