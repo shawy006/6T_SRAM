@@ -178,6 +178,14 @@ The **read operation** retrieves the data stored in the SRAM cell (either a `1` 
 
 ---
 
+### **LTSpice Simulation and Results**
+
+![Screenshot (171)](https://github.com/user-attachments/assets/7ddcdc87-374a-4d34-90de-74274dbaa740)
+![Screenshot (174)](https://github.com/user-attachments/assets/cc1455bc-6c57-421a-90db-dd973153d169)
+
+ 
+---
+
 ### **Key Considerations**
 
 - **Stability:** SRAM maintains data without refresh.
