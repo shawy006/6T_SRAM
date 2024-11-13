@@ -1,6 +1,8 @@
 ## Project Overview
 
 This project involves the design and simulation of a **6T SRAM (Static Random-Access Memory) cell**, focusing on write and read operations and integrating a sense amplifier. The design is based on **TSMC 180nm CMOS technology**, with simulations conducted in **LTSpice** for performance analysis.
+
+
 ![wa](https://github.com/user-attachments/assets/46faca52-12f4-4bf8-8707-3989cbddc101)
 
 ---
