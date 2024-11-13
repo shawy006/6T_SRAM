@@ -1,6 +1,7 @@
 ### **Project Overview:**
 This project involves the design and simulation of a 6T (Six-Transistor) SRAM (Static Random-Access Memory) cell, focusing on the write and read operations along with the integration of a sense amplifier. The design utilizes TSMC 180nm CMOS technology, and the entire setup is simulated in LTSpice for performance evaluation.
 ![wa](https://github.com/user-attachments/assets/46faca52-12f4-4bf8-8707-3989cbddc101)
+
 This image represents an 8x6 Static RAM (SRAM) array, illustrating the basic structure and components involved in an SRAM memory system. Let’s go over each part in detail:
 
 ### 1. **SRAM Cells** (Orange Blocks)
